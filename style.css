@@ -19,7 +19,8 @@ body {
     flex: 1.25;
     max-width: 250px;
     flex-wrap: wrap;
-    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: scroll;
 }
 
 .sidebar-head {
